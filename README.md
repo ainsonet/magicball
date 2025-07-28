@@ -1,3 +1,4 @@
 # magicball
-Магический шар предсказаний
+[Магический шар предсказаний](https://t.me/mymagic8ball_bot)
+
 ![screenshot](magicball.png)
