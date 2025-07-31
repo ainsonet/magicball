@@ -1,7 +1,7 @@
 import random
 import telebot
 
-bot = telebot.TeleBot('7643565727:AAE_gz_w2mk9UrtrlG0W3RTY5SsMrRlhTgw')
+bot = telebot.TeleBot('')
 
 answer = ["Бесспорно", "Предрешено",
           "Никаких сомнений", "Определённо да",
